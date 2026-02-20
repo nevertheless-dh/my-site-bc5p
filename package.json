@@ -2,7 +2,7 @@
   "name": "digital-namec11ard",
   "version": "1.0.0",
   "private": true,
-  "scripts": {
+  "scripts": {123123
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
